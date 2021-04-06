@@ -4,7 +4,7 @@
  
 - I'm a Full Stack Java developer.
 - I have been trained in Java(Core and Advanced) and Python. 
-- I’m currently digging through Deep Learning.🌱
+- I’m currently digging through Data Science.🌱
 
 <!---
 sumukh-m/sumukh-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
