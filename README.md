@@ -1,6 +1,6 @@
   Hi, 👋
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- My name is Sumukh and I am currently a 3rd year undergrad student in Computer Science.
+ My name is Sumukh Mydur and I am currently a 3rd year undergrad student in Computer Science.
  
 - I'm a Full Stack Java developer.
 - I have been trained in Java(Core and Advanced) and Python. 
