@@ -10,7 +10,7 @@ I am a Deep Learning Enthusiast, interested in DevOps and Cloud. I am trained in
 # 📊 GitHub Stats:
 ## 📈 Stats
 <p align="center"> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumukh-ms&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumukh-m&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumukh-m&theme=tokyonight" />
 </p>
 
