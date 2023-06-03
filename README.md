@@ -1,7 +1,5 @@
+![Header](./header.gif)
 
-<p align="center">
-  ![Header](./header.gif)
-</p>
 <h1 align="center">Hi 👋, I'm Sumukh Mydur</h1>
 I am a Deep Learning Enthusiast, interested in DevOps and Cloud. I am trained in Java, Python and Type Srcipt. I also have expertise in Full stack Java<br><br>Currently pursuing Master of Applied Computing at the University of Windsor.<br><br>I am also an active LeetCoder and enjoy solving problems.<br>
 
