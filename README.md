@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Deep Learning, DevOps and Large Language Models**
 
-- 👨‍💻 Portfolio Link [https://sumukh-m.github.io/](https://sumukh-m.github.io/)
+- 👨‍💻 Portfolio Link ,a href="https://sumukh-m.github.io/" target="blank"> **here** </a>
 
 - 📫 How to reach me **mydur@uwindsor.ca or sumukhmydur@gmail.com**
 
-- 📄 Resume Link<a href="https://drive.google.com/file/d/1rWHyzrStBwXhjJz8_TpJk-K6MeznFtpE/view?usp=sharing" target="blank"> **here**</a>
+- 📄 Resume Link <a href="https://drive.google.com/file/d/1rWHyzrStBwXhjJz8_TpJk-K6MeznFtpE/view?usp=sharing" target="blank"> **here**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
