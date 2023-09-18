@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumukh Mydur</h1>
 
-![Header Image](https://via.placeholder.com/850x280)
+![Header Image]("banner.gifbanner.gif")
 
 <h3 align="center">Machine Learning, Deep Learning and Software Engineer Enthusiast</h3>
 
