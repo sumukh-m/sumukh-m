@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mydur@uwindsor.ca or sumukhmydur@gmail.com**
 
-- 📄 Resume Link [https://drive.google.com/file/d/1rWHyzrStBwXhjJz8_TpJk-K6MeznFtpE/view?usp=sharing](https://drive.google.com/file/d/1rWHyzrStBwXhjJz8_TpJk-K6MeznFtpE/view?usp=sharing)
+- 📄 Resume Link<a href="[https://drive.google.com/file/d/1hgkFSWHn9gOmPYbuMPPESAmaKdiETirq/view?usp=sharing](https://drive.google.com/file/d/1rWHyzrStBwXhjJz8_TpJk-K6MeznFtpE/view?usp=sharing](https://drive.google.com/file/d/1rWHyzrStBwXhjJz8_TpJk-K6MeznFtpE/view?usp=sharing" target="blank"> **here**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
