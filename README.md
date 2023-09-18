@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, DevOps and Large Language Models**
 
-- 👨‍💻 Portfolio Link ,a href="https://sumukh-m.github.io/" target="blank"> **here** </a>
+- 👨‍💻 Portfolio Link <a href="https://sumukh-m.github.io/" target="blank"> **here** </a>
 
 - 📫 How to reach me **mydur@uwindsor.ca or sumukhmydur@gmail.com**
 
