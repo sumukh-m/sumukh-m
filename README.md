@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **mydur@uwindsor.ca or sumukhmydur@gmail.com**
 
-- 📄 Resume Link <a href="https://drive.google.com/file/d/1rWHyzrStBwXhjJz8_TpJk-K6MeznFtpE/view?usp=sharing" target="blank"> **here**</a>
-
 
 A passionate technologist, I have dedicated my career to mastering the art of software development and data-driven decision making. Having honed my skills in both Java and Python, I've melded deep development experience with a comprehensive understanding of modern software architecture – diving deep into frameworks such as J2EE, Spring-MVC, Hibernate, and Spring Boot while integrating frontend solutions like Angular JS.
 
