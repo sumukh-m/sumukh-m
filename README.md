@@ -2,7 +2,7 @@
 
 ![Header Image](banner.gif)
 
-<h3 align="center">Machine Learning, Deep Learning and Software Engineer Enthusiast</h3>
+<h3 align="center">Aspiring to change the world by working on products that impact society</h3>
 
 - 🔭 I’m currently studying in **University of Windsor**
 
