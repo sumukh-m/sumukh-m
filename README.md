@@ -12,7 +12,7 @@
 
 - 👨‍💻 Portfolio Link <a href="https://sumukh-m.github.io/" target="blank"> **here** </a>
 
-- 📫 How to reach me **mydur@uwindsor.ca or sumukhmydur@gmail.com**
+- 📫 How to reach me **sumukhmydur@gmail.com**
 
 
 A passionate technologist, I have dedicated my career to mastering the art of software development and data-driven decision making. Having honed my skills in both Java and Python, I've melded deep development experience with a comprehensive understanding of modern software architecture – diving deep into frameworks such as J2EE, Spring-MVC, Hibernate, and Spring Boot while integrating frontend solutions like Angular JS.
