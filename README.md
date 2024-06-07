@@ -14,17 +14,6 @@
 
 - 📫 How to reach me **sumukhmydur@gmail.com**
 
-
-A passionate technologist, I have dedicated my career to mastering the art of software development and data-driven decision making. Having honed my skills in both Java and Python, I've melded deep development experience with a comprehensive understanding of modern software architecture – diving deep into frameworks such as J2EE, Spring-MVC, Hibernate, and Spring Boot while integrating frontend solutions like Angular JS.
-
-My ardor for understanding and leveraging data propels me into the realms of Deep Learning, Machine Learning, and Data Science. With hands-on expertise in Convolutional Neural Networks, Recurrent Neural Networks, and Generative Adversarial Networks, I am well-versed in tools including PyTorch, TensorFlow, Keras, and more. My knack for visualizing and interpreting complex data has found its match in platforms like Power BI, Tableau, and Excel.
-
-As a seasoned database specialist, I navigate seamlessly across diverse systems such as MySQL, Postgres, Oracle SQL, and Microsoft SQL Server. My proficiency extends to optimizing and managing these databases with tools like SQL Server Management Studio.
-
-Understanding the dynamic nature of technology, I'm also immersed in the world of Cloud and DevOps. My hands-on experience with AWS, Docker, and Jenkins ensures that I bring scalability, flexibility, and continuous integration to all projects I undertake.
-
-With a firm belief that technology is as much about people as it is about code, I am committed to collaboration, continuous learning, and leveraging tech to solve real-world problems. Let's connect and explore how we can make a difference together!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sumukh mydur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumukh mydur" height="30" width="40" /></a>
