@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumukh Mydur</h1>
 
-![Header Image](banner_new.gif)
+![Header Image](banner.gif)
 
 <h3 align="center">Thanks for visiting my GitHub!</h3>
 
