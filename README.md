@@ -2,7 +2,7 @@
 
 ![Header Image](banner.gif)
 
-<h3 align="center">Developer</h3>
+<h3 align="center">Thanks for visiting my profile!</h3>
 
 - 🔭 I’m currently working as a Data Engineer at **Ontario Teacher's Pension Plan**
   
