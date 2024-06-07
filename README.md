@@ -4,9 +4,11 @@
 
 <h3 align="center">Aspiring to change the world by working on products that impact society</h3>
 
-- 🔭 I’m currently studying in **University of Windsor**
+- 🔭 I’m currently working as a Data Engineer at **Ontario Teacher's Pension Plan**
+  
+- 📓 Master's Degree in Computer Science from **University of Windsor**
 
-- 🌱 I’m currently learning **Deep Learning, DevOps and Large Language Models**
+- 🌱 I’m currently learning **DevOps and Large Language Models**
 
 - 👨‍💻 Portfolio Link <a href="https://sumukh-m.github.io/" target="blank"> **here** </a>
 
