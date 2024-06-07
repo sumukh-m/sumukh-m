@@ -8,8 +8,6 @@
   
 - 📓 Master's Degree in Computer Science from **University of Windsor**
 
-- 🌱 I’m currently learning **DevOps and Large Language Models**
-
 - 👨‍💻 Portfolio Link <a href="https://sumukh-m.github.io/" target="blank"> **here** </a>
 
 - 📫 How to reach me **sumukhmydur@gmail.com**
