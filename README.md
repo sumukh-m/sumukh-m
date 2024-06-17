@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a Data Engineer at **Ontario Teacher's Pension Plan**
   
-- 📓 Master's Degree in Computer Science from **University of Windsor**
+- 📓 Master's Degree in Applied Computer Science from **University of Windsor**
 
 - 👨‍💻 Portfolio Link <a href="https://sumukh-m.github.io/" target="blank"> **here** </a>
 
