@@ -8,7 +8,6 @@
   
 - 📓 Master's Degree in Applied Computer Science from **University of Windsor**
 
-- 👨‍💻 Portfolio Link <a href="https://sumukh-m.github.io/" target="blank"> **here** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
