@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumukh Mydur</h1>
+<h1 align="center">Hi 👋, I'm Sumukh</h1>
 
 ![Header Image](banner_new.gif)
 
